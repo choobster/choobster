@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, it's Dickson!
 👩🏻‍💻 Recent Computer Science Graduate specializing in Big Data<br>👩🏻‍🎓 Studied [Computer Science (Big Data)](https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-computer-science-big-data) at the University of Wollongong, Australia<br>💭 Currently learning about data analytics
 
 
